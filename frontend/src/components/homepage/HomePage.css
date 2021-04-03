@@ -1,0 +1,12 @@
+.main-home {
+    color:blueviolet;
+    border: black;
+    border-radius: 10px;
+    border-color:maroon;
+    border-width: 20px;
+    background-color:ivory;
+    left: 25%;
+    position:absolute;
+    top: 10%;
+    display:grid;
+}
